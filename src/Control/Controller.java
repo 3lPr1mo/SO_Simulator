@@ -6,4 +6,6 @@ package Control;
  */
 public class Controller {
     
+    //TODO: Aqui va todo el controlador, falta el 
+    
 }
